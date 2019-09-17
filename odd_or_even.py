@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#This is answer to exercise number 7
+
 number = int(input("insert number: "))
 if (number % 2) == 0:
     if (number > 4):

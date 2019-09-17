@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+#Answer to exercise number 2
+
+
 a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 b = []
 for number in a:

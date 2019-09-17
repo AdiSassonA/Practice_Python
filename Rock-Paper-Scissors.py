@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+#This is answer to exercise number 8
+
+
 player1 = input("Hi Player 1 we are playing rock-sicssors-paper, insert your choice: ")
 player2 = input("Hi Player 2we are playing rock-sicssors-paper, insert your choice: ")
 
